@@ -11,4 +11,13 @@ print("How to use playgrounds to make writing Swift fun and simple")
 
 // Use multiple print functions to write out some of the lyrics to the song.
 
-
+print("Someone You Loved by Lewis Capaldi")
+print("I'm going under and this time I fear there's no one to save me")
+print("This all or nothing really got a way of driving me crazy")
+print("I need somebody to heal")
+print("Somebody to know")
+print("Somebody to have")
+print("Somebody to hold")
+print("It's easy to say")
+print("But it's never the same")
+print("I guess I kinda like the way you numbed all the pain")
