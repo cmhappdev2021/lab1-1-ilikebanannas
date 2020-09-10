@@ -21,3 +21,5 @@ print("Somebody to hold")
 print("It's easy to say")
 print("But it's never the same")
 print("I guess I kinda like the way you numbed all the pain")
+let name = "Ali Alqam"
+print(name)
